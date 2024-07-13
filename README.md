@@ -57,6 +57,10 @@ This project is licensed under the MIT License.
 
 ![Screenshot 1](./public/images/screenshot1.PNG)
 
+## live demo
+
+you can check the app from here: https://eat-nsplit.netlify.app/
+
 ## Contact
 
 Created by [Ahmed.Fouda](https://github.com/Ahmed-K-Fouda) - feel free to contact me!
